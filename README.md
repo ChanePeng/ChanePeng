@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/306dfb12-03f9-4db3-b9a1-6a8e04e9a5d7)
 ## Hi there!👋
-
 <!--
 **ChanePeng/ChanePeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
