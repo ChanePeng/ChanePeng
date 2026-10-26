@@ -1,16 +1,22 @@
-![image](https://github.com/user-attachments/assets/306dfb12-03f9-4db3-b9a1-6a8e04e9a5d7)
-## Hi there!👋
-<!--
-**ChanePeng/ChanePeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cyan Peng
 
-Here are some ideas to get you started:
+I build software for photonic active-alignment, packaging, and test systems. The alignment loop moves an optical part until the coupled signal meets its target; the same software runs the measurements and the interface on the tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ALapWork** is the platform for that work: C# on .NET, WPF and MVVM for the interface, and the sequencing and device control underneath.
+
+## What I work on
+
+- **Equipment software.** Active alignment, packaging, and production test.
+- **ALapWork.** The application platform those systems are built on.
+- **Process tooling.** Motion-control software, GDSII utilities, and digital-twin models of the alignment and test flow.
+- **Development practice.** Experiments in an AI-first software lifecycle, with the output checked against how the hardware behaves.
+
+## Tech
+
+C# · .NET · WPF · MVVM · motion control · GDSII
+
+## Public work
+
+The systems above are not in a public repository.
+
+A short personal page is at [chanepeng.github.io](https://chanepeng.github.io).
