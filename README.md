@@ -1,13 +1,10 @@
 # Cyan Peng (Chane)
 
-I build software for photonic active alignment, packaging, and production test. The alignment loop moves an optical part until the coupled signal meets its target; the same software runs the measurements and the interface on the tool.
-
-**ALapWork** is the commercial equipment-software platform for that work: C# on .NET, WPF and MVVM for the interface, and the sequencing and device control underneath.
+I build software for photonic production test on optical equipment. The alignment loop moves an optical part until the coupled signal meets its target; the same software runs the measurements and the interface on the tool.
 
 ## What I work on
 
-- **Equipment software.** Active alignment, packaging, and production test.
-- **ALapWork.** The application platform those systems are built on.
+- **Equipment software.** Production test on optical equipment.
 - **Process tooling.** Motion-control software, GDSII utilities, and digital-twin models of the alignment and test flow.
 - **Development practice.** Experiments in an AI-first software lifecycle, with the output checked against how the hardware behaves.
 
