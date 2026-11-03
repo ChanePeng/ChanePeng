@@ -1,4 +1,4 @@
-# Cyan Peng (Chane)
+# Cyan Peng
 
 I build software for photonic production test on optical equipment. The alignment loop moves an optical part until the coupled signal meets its target; the same software runs the measurements and the interface on the tool.
 
